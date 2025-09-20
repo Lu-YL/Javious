@@ -1,5 +1,4 @@
-# Javious
-Chatter-CNN (HDCNN) for online chatter detection in milling
+# Chatter-CNN (HDCNN) for online chatter detection in milling
 
 > Online chatter detection for workpiece milling using a hybrid deep CNN (Inception-Chatter + SR-MI) and an early detection method based on a small-probability hypothesis combined with CUSUM.
 
